@@ -28,7 +28,7 @@ function romanize($number)
 
 $namesOrder = array();
 $romanRoder = array();
-$namesRoman = array("Lulio D", "Pepe CD", "Juanito XL"); // replace with the array later
+$namesRoman = array("Lulio D", "Pepe CD", "Juanito XL"); // replace with the array later.
 
 // return in numeral order
 foreach ($namesRoman as &$value) {
